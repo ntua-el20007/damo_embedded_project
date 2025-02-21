@@ -31,7 +31,7 @@ Users can explore the intensive memory access patterns and WSS for each use case
 
 ## Memory Monitoring with DAMON and DAMO
 
-The project leverages DAMON to monitor memory access patterns and DAMO to configure and visualize the data. The server’s memory behavior is tracked across different operational modes:  
+The project leverages DAMON to monitor memory access patterns and DAMO to configure and visualize the data. The server’s behavior is tracked across different operational modes:  
 - **DAMON mode**: Monitoring enabled with DAMON to record access intensity and WSS.  
 - **Normal mode**: Monitoring disabled, serving as a baseline for comparison.  
 
